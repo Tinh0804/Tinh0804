@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm [Le Hoang Quach Tinh]
+# Hi there! 👋 I'm [Lê Hoàng Quách Tỉnh]
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;.NET+Core+%7C+Spring+Boot;Building+Scalable+APIs+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -22,7 +22,7 @@
     "Database Optimization"
   ],
   "tech_stack": {
-    "languages": ["C# (.NET)", "Java (Spring Boot)"],
+    "languages": [ "Java (Spring Boot)","C# (.NET)"],
     "devops": ["Docker", "Git", "CI/CD"],
     "database": ["SQL Server", "MongoDB", "MySQL"]
   },
@@ -44,10 +44,10 @@
 
 ### Languages & Frameworks
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
 
 ### Databases
