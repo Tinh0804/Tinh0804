@@ -28,15 +28,16 @@
   },
   "motto": "Clean Code is Happy Code ✨"
 }
-
+```
 
 </div>
-```
+
+````
+
+---
 🔹 Passionate about building **scalable backend systems**  
 🔹 Strong advocate for **clean code** and **best practices**  
 🔹 Always exploring new technologies to solve complex problems`
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
