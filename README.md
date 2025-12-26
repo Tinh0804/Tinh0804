@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Le Hoang Quach Tinh]
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;.NET+Core+%7C+Spring+Boot;Building+Scalable+APIs+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 const developer = {
     role: "Backend Software Engineer",
     focus: ["Web APIs", "Microservices", "Database Architecture"],
-    learning: ["Spring Boot", "Microservices", "System Design"],
+    learning: ["Spring Boot,.NetCore", "Microservices", "System Design"],
     motto: "Clean Code is Happy Code ✨"
 };
 ```
@@ -45,7 +45,6 @@ const developer = {
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### DevOps & Tools
@@ -64,10 +63,10 @@ const developer = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tinh0804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tinh0804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTinh0804&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
@@ -95,10 +94,10 @@ const developer = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-qu%C3%A1ch-t%E1%BB%89nh-56a0a0376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="lhqtinh2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://your-website.com">
@@ -117,9 +116,9 @@ const developer = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Tinh0804&color=blueviolet&style=flat-square)
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Quách Tỉnh]**
 
 </div>
 ```
