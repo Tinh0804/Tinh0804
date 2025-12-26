@@ -34,7 +34,7 @@
 🔹 Always exploring new technologies to solve complex problems
 
 </div>
-
+````
 ---
 
 ## 🛠️ Tech Stack
