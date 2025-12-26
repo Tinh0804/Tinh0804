@@ -10,8 +10,7 @@
 
 ## 👨‍💻 About Me
 ````Markdown
-<div align="center">
-```json
+
 {
   "role": "Backend Software Engineer",
   "focus": [
@@ -26,13 +25,12 @@
   },
   "motto": "Clean Code is Happy Code ✨"
 }
-```
+
 ````
 🔹 Passionate about building **scalable backend systems**  
 🔹 Strong advocate for **clean code** and **best practices**  
 🔹 Always exploring new technologies to solve complex problems
 
-</div>
 
 ---
 
