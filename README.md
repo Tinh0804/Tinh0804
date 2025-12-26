@@ -10,15 +10,24 @@
 
 ## 👨‍💻 About Me
 
+````markdown
 <div align="center">
-```typescript
-const developer = {
-    role: "Backend Software Engineer",
-    focus: ["Web APIs", "Microservices", "Database Architecture"],
-    learning: ["Spring Boot,.NetCore", "Microservices", "System Design"],
-    motto: "Clean Code is Happy Code ✨"
-};
-```
+
+```json
+{
+  "role": "Backend Software Engineer",
+  "focus": [
+    "Scalable Web APIs",
+    "Microservices", 
+    "Database Optimization"
+  ],
+  "tech_stack": {
+    "languages": ["C# (.NET)", "Java (Spring Boot)"],
+    "devops": ["Docker", "Git", "CI/CD"],
+    "database": ["SQL Server", "MongoDB", "MySQL"]
+  },
+  "motto": "Clean Code is Happy Code ✨"
+}
 
 🔹 Passionate about building **scalable backend systems**  
 🔹 Strong advocate for **clean code** and **best practices**  
