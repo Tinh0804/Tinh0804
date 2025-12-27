@@ -74,7 +74,6 @@
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tinh0804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tinh0804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinh0804&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
