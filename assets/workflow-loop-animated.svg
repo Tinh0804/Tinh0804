@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="650" viewBox="0 0 1648 650" role="img" aria-labelledby="title desc">
+  <title id="title">Backend delivery workflow</title>
+  <desc id="desc">A Swiss editorial workflow from API design through optimization.</desc>
+  <rect width="1648" height="650" rx="28" fill="#2454ff"/>
+  <rect x="38" y="38" width="1572" height="574" fill="#f4f0e6" stroke="#121212" stroke-width="6"/>
+  <text x="78" y="108" fill="#121212" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="900">BACKEND DELIVERY LOOP</text>
+  <text x="1570" y="106" text-anchor="end" fill="#121212" font-family="Courier New,monospace" font-size="20" font-weight="700">REPEAT / LEARN / IMPROVE</text>
+  <path id="route" d="M130 315H1518" fill="none" stroke="#121212" stroke-width="8"/>
+  <path d="M130 315H1518" fill="none" stroke="#ff5c35" stroke-width="8" stroke-dasharray="64 132">
+    <animate attributeName="stroke-dashoffset" values="196;0" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <circle r="15" fill="#ffd84d" stroke="#121212" stroke-width="5">
+    <animateMotion dur="8s" repeatCount="indefinite"><mpath href="#route"/></animateMotion>
+  </circle>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle" font-weight="900">
+    <g transform="translate(190 315)"><circle r="82" fill="#ff5c35" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="23">DESIGN</text><text y="28" fill="#121212" font-size="17">API</text></g>
+    <g transform="translate(440 315)"><circle r="82" fill="#ffd84d" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="23">BUILD</text><text y="28" fill="#121212" font-size="17">SERVICE</text></g>
+    <g transform="translate(690 315)"><circle r="82" fill="#74c947" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="23">TEST</text><text y="28" fill="#121212" font-size="17">BEHAVIOR</text></g>
+    <g transform="translate(940 315)"><circle r="82" fill="#62c8ff" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="21">DOCKER</text><text y="28" fill="#121212" font-size="17">PACKAGE</text></g>
+    <g transform="translate(1190 315)"><circle r="82" fill="#8b75ff" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="23">DEPLOY</text><text y="28" fill="#121212" font-size="17">CI/CD</text></g>
+    <g transform="translate(1440 315)"><circle r="82" fill="#ff9a68" stroke="#121212" stroke-width="6"/><text y="-3" fill="#121212" font-size="20">OPTIMIZE</text><text y="28" fill="#121212" font-size="17">FEEDBACK</text></g>
+  </g>
+  <rect x="78" y="490" width="1492" height="76" fill="#121212"/>
+  <text x="824" y="538" text-anchor="middle" fill="#f4f0e6" font-family="Courier New,monospace" font-size="22" font-weight="700">VALIDATE INPUT · PROTECT DATA · FAIL PREDICTABLY · SHIP SAFELY</text>
+</svg>

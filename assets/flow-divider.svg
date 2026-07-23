@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1648" height="42" viewBox="0 0 1648 42" role="img" aria-label="Animated editorial section divider">
+  <rect width="1648" height="42" fill="#f4f0e6"/>
+  <rect y="16" width="1648" height="10" fill="#121212"/>
+  <rect y="16" width="220" height="10" fill="#ff5c35">
+    <animate attributeName="x" values="-220;1648" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <circle cy="21" r="13" fill="#ffd84d" stroke="#121212" stroke-width="4">
+    <animate attributeName="cx" values="0;1648" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
