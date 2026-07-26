@@ -22,14 +22,14 @@
 
 I build scalable systems with clean code, reliable APIs, and maintainable architecture. While my core expertise is in **Java & Spring Boot**, I also craft interactive user interfaces using ReactJS, and occasionally work with .NET.
 
-<img align="right" width="300" src="https://media1.giphy.com/media/qgQUggCGvnkNC/giphy.webp" alt="Coding Animation" style="border-radius: 10px;" />
+<img align="right" width="300" src="./assets/developer.gif" alt="Coding Animation" style="border-radius: 10px;" />
 
 ```java
 var developer = Map.of(
     "name", "Lê Hoàng Quách Tỉnh",
     "role", "Software Engineer (Java Focused)",
     "backend", List.of("Java", "Spring Boot", "Microservices", "Python/FastAPI"),
-    "frontend", List.of("ReactJS", "Javascript", "HTML/CSS"),
+    "frontend", List.of("ReactJS", "Javascript", "Tailwind CSS"),
     "motto", "Clean Code is Happy Code ✨"
 );
 ```
