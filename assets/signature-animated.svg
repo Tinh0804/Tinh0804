@@ -58,14 +58,14 @@
       <text y="250" fill="#94a3b8" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" letter-spacing="5">SOFTWARE ENGINEER</text>
       <text y="304" fill="#64748b" font-family="Courier New,monospace" font-size="19">I turn complex requirements into reliable systems and interactive UIs.</text>
       <g transform="translate(0 344)" font-family="Courier New,monospace" font-size="16" font-weight="700">
-        <rect width="148" height="42" rx="12" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".35"/>
-        <text x="74" y="27" text-anchor="middle" fill="#67e8f9">SPRING BOOT</text>
-        <rect x="162" width="92" height="42" rx="12" fill="#a78bfa" fill-opacity=".1" stroke="#a78bfa" stroke-opacity=".35"/>
-        <text x="208" y="27" text-anchor="middle" fill="#c4b5fd">.NET</text>
-        <rect x="268" width="120" height="42" rx="12" fill="#61dafb" fill-opacity=".1" stroke="#61dafb" stroke-opacity=".35"/>
-        <text x="328" y="27" text-anchor="middle" fill="#61dafb">REACTJS</text>
-        <rect x="402" width="174" height="42" rx="12" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/>
-        <text x="489" y="27" text-anchor="middle" fill="#7dd3fc">MICROSERVICES</text>
+        <rect width="148" height="42" rx="12" fill="#eab308" fill-opacity=".1" stroke="#eab308" stroke-opacity=".35"/>
+        <text x="74" y="27" text-anchor="middle" fill="#fde047">SPRING BOOT</text>
+        <rect x="162" width="96" height="42" rx="12" fill="#14b8a6" fill-opacity=".1" stroke="#14b8a6" stroke-opacity=".35"/>
+        <text x="210" y="27" text-anchor="middle" fill="#5eead4">FASTAPI</text>
+        <rect x="272" width="120" height="42" rx="12" fill="#61dafb" fill-opacity=".1" stroke="#61dafb" stroke-opacity=".35"/>
+        <text x="332" y="27" text-anchor="middle" fill="#61dafb">REACTJS</text>
+        <rect x="406" width="174" height="42" rx="12" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".35"/>
+        <text x="493" y="27" text-anchor="middle" fill="#7dd3fc">MICROSERVICES</text>
       </g>
     </g>
 
@@ -77,7 +77,7 @@
       <g font-family="Courier New,monospace" font-size="18">
         <text x="34" y="102" fill="#64748b">01</text><text x="78" y="102" fill="#c4b5fd">service:</text><text x="178" y="102" fill="#e2e8f0">profile-api</text>
         <text x="34" y="141" fill="#64748b">02</text><text x="78" y="141" fill="#c4b5fd">status:</text><text x="168" y="141" fill="#34d399">healthy</text>
-        <text x="34" y="180" fill="#64748b">03</text><text x="78" y="180" fill="#c4b5fd">runtime:</text><text x="178" y="180" fill="#67e8f9">Java / .NET</text>
+        <text x="34" y="180" fill="#64748b">03</text><text x="78" y="180" fill="#c4b5fd">runtime:</text><text x="178" y="180" fill="#67e8f9">Java / Python</text>
         <text x="34" y="219" fill="#64748b">04</text><text x="78" y="219" fill="#c4b5fd">focus:</text><text x="158" y="219" fill="#e2e8f0">scalable APIs</text>
       </g>
       <g transform="translate(34 270)">

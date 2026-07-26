@@ -20,21 +20,21 @@
 
 ## About Me
 
-I build scalable systems with clean code, reliable APIs, and maintainable architecture. While my core expertise is in backend development, I also craft interactive user interfaces using ReactJS.
+I build scalable systems with clean code, reliable APIs, and maintainable architecture. While my core expertise is in **Java & Spring Boot**, I also craft interactive user interfaces using ReactJS, and occasionally work with .NET.
 
-<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" style="border-radius: 10px;" />
+<img align="right" width="300" src="https://media1.giphy.com/media/qgQUggCGvnkNC/giphy.webp" alt="Coding Animation" style="border-radius: 10px;" />
 
 ```java
 var developer = Map.of(
     "name", "Lê Hoàng Quách Tỉnh",
-    "role", "Software Engineer (Backend Focused)",
-    "backend", List.of("Spring Boot", ".NET", "Microservices", "Databases"),
+    "role", "Software Engineer (Java Focused)",
+    "backend", List.of("Java", "Spring Boot", "Microservices", "Python/FastAPI"),
     "frontend", List.of("ReactJS", "Javascript", "HTML/CSS"),
     "motto", "Clean Code is Happy Code ✨"
 );
 ```
 
-- 💻 Building production-ready REST APIs with Spring Boot and .NET
+- ☕ Building production-ready REST APIs primarily with **Java & Spring Boot**
 - 🎨 Creating dynamic, interactive frontend applications with ReactJS
 - 🧩 Designing microservices and optimizing database performance
 - 🚀 Exploring cloud platforms and contributing to open source
@@ -50,7 +50,7 @@ A connected view of the technologies I use to design APIs, build services, manag
 
 ### Core Toolkit
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,redis,docker,git,postman,vscode,react,js,css&perline=13" alt="Java, Spring Boot, C sharp, .NET, PostgreSQL, Redis, Docker, Git, Postman, VS Code, React, JS, CSS" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,docker,git,postman,vscode,react,js,css,python,fastapi&perline=13" alt="Java, Spring Boot, PostgreSQL, Redis, Docker, Git, Postman, VS Code, React, JS, CSS, Python, FastAPI" />
 
 <br/>
 
@@ -70,7 +70,7 @@ A connected view of the technologies I use to design APIs, build services, manag
 - 🗄️ **Data-Driven Systems** — Practical schemas, efficient queries, and database optimization.
 - 🛡️ **Reliable Delivery** — Validation, testing, Docker, Git, and CI/CD.
 
-`Spring Boot` · `.NET` · `ReactJS` · `REST APIs` · `Microservices` · `Database Optimization`
+`Java` · `Spring Boot` · `ReactJS` · `REST APIs` · `Microservices` · `Database Optimization`
 
 
 ## The Backend Delivery Loop
@@ -84,8 +84,8 @@ Understand the problem, design the API, build the service, test its behavior, sh
 
 - Mastering Spring Boot and microservices
 - Enhancing frontend skills with advanced ReactJS and state management
-- Contributing to open-source projects
-- Learning Azure and AWS
+- Deep diving into Event-Driven Architecture with **Kafka** and **RabbitMQ**
+- Expanding knowledge in **Cloud & DevOps** (AWS, CI/CD, Deployment pipelines)
 
 📚 **Reading:** *Designing Data-Intensive Applications*<br/>
 ☕ **Fuel:** Coffee + Clean Code
