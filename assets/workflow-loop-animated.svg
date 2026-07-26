@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1648" height="660" viewBox="0 0 1648 660" role="img" aria-labelledby="title desc">
-  <title id="title">Backend delivery workflow</title>
-  <desc id="desc">A dark premium workflow showing six connected phases from API design to optimization.</desc>
+  <title id="title">Software delivery workflow</title>
+  <desc id="desc">A dark premium workflow showing six connected phases from system design to UI optimization.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0a1024"/><stop offset="1" stop-color="#151035"/></linearGradient>
     <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
@@ -14,7 +14,7 @@
     <rect width="1648" height="660" fill="url(#grid)"/>
     <circle cx="824" cy="340" r="430" fill="#38bdf8" fill-opacity=".035"/>
 
-    <text x="62" y="76" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800">THE BACKEND DELIVERY LOOP</text>
+    <text x="62" y="76" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="800">THE SOFTWARE DELIVERY LOOP</text>
     <text x="62" y="111" fill="#64748b" font-family="Courier New,monospace" font-size="15" letter-spacing="3">FROM REQUIREMENT TO RELIABLE RELEASE</text>
     <text x="1582" y="78" text-anchor="end" fill="#a78bfa" font-family="Courier New,monospace" font-size="17">ITERATE / LEARN / IMPROVE</text>
 
@@ -30,12 +30,12 @@
       <g transform="translate(168 322)">
         <circle r="76" fill="#0b172b" stroke="#22d3ee" stroke-width="2"/><circle r="58" fill="none" stroke="#22d3ee" stroke-opacity=".18"/>
         <text y="-8" fill="#67e8f9" font-family="Courier New,monospace" font-size="16">01</text><text y="24" fill="#f8fafc" font-size="20" font-weight="800">DESIGN</text>
-        <text y="106" fill="#64748b" font-size="15">API contract</text>
+        <text y="106" fill="#64748b" font-size="15">System &amp; UI</text>
       </g>
       <g transform="translate(430 322)">
         <circle r="76" fill="#10152d" stroke="#38bdf8" stroke-width="2"/><circle r="58" fill="none" stroke="#38bdf8" stroke-opacity=".18"/>
         <text y="-8" fill="#7dd3fc" font-family="Courier New,monospace" font-size="16">02</text><text y="24" fill="#f8fafc" font-size="20" font-weight="800">BUILD</text>
-        <text y="106" fill="#64748b" font-size="15">Service logic</text>
+        <text y="106" fill="#64748b" font-size="15">APIs &amp; Views</text>
       </g>
       <g transform="translate(692 322)">
         <circle r="76" fill="#11142d" stroke="#818cf8" stroke-width="2"/><circle r="58" fill="none" stroke="#818cf8" stroke-opacity=".18"/>

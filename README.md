@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=LE+HOANG+QUACH+TINH+%E2%80%94+BACKEND+ENGINEER;Building+scalable+and+reliable+APIs;Spring+Boot+%E2%80%A2+.NET+%E2%80%A2+Microservices" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=LE+HOANG+QUACH+TINH+%E2%80%94+SOFTWARE+ENGINEER;Backend+Core+%E2%80%A2+ReactJS+Frontend;Spring+Boot+%E2%80%A2+.NET+%E2%80%A2+Microservices;Building+scalable+systems+%26+UIs" alt="Animated introduction" />
 
 <br/>
 
@@ -20,18 +20,22 @@
 
 ## About Me
 
-I build scalable backend systems with clean code, reliable APIs, and maintainable architecture. I enjoy solving complex problems through thoughtful database design, secure services, and practical engineering.
+I build scalable systems with clean code, reliable APIs, and maintainable architecture. While my core expertise is in backend development, I also craft interactive user interfaces using ReactJS.
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" style="border-radius: 10px;" />
 
 ```java
 var developer = Map.of(
     "name", "Lê Hoàng Quách Tỉnh",
-    "role", "Backend Software Engineer",
-    "focus", List.of("Scalable Web APIs", "Microservices", "Database Optimization"),
+    "role", "Software Engineer (Backend Focused)",
+    "backend", List.of("Spring Boot", ".NET", "Microservices", "Databases"),
+    "frontend", List.of("ReactJS", "Javascript", "HTML/CSS"),
     "motto", "Clean Code is Happy Code ✨"
 );
 ```
 
 - 💻 Building production-ready REST APIs with Spring Boot and .NET
+- 🎨 Creating dynamic, interactive frontend applications with ReactJS
 - 🧩 Designing microservices and optimizing database performance
 - 🚀 Exploring cloud platforms and contributing to open source
 
@@ -40,16 +44,17 @@ var developer = Map.of(
 
 A connected view of the technologies I use to design APIs, build services, manage data, and ship reliable software.
 
-<img src="./assets/neural-stack-animated.svg" width="100%" alt="Animated backend technology map featuring Java, Spring Boot, C sharp, .NET, SQL Server, PostgreSQL, MongoDB, Docker, Git, Postman and VS Code" />
+<img src="./assets/neural-stack-animated.svg" width="100%" alt="Animated backend technology map featuring Java, Spring Boot, C sharp, .NET, SQL Server, PostgreSQL, Redis, Docker, Git, Postman and VS Code" />
 
 <div align="center">
 
 ### Core Toolkit
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,mongodb,docker,git,postman,vscode&perline=10" alt="Java, Spring Boot, C sharp, .NET, PostgreSQL, MongoDB, Docker, Git, Postman and VS Code" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,redis,docker,git,postman,vscode,react,js,css&perline=13" alt="Java, Spring Boot, C sharp, .NET, PostgreSQL, Redis, Docker, Git, Postman, VS Code, React, JS, CSS" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
@@ -61,10 +66,11 @@ A connected view of the technologies I use to design APIs, build services, manag
 
 - 🔌 **Scalable Web APIs** — Clean, versioned, and maintainable REST services.
 - 🧩 **Microservices** — Focused services with clear boundaries and reliable communication.
+- 🎨 **Interactive UIs** — Engaging and responsive frontend applications using ReactJS.
 - 🗄️ **Data-Driven Systems** — Practical schemas, efficient queries, and database optimization.
 - 🛡️ **Reliable Delivery** — Validation, testing, Docker, Git, and CI/CD.
 
-`Spring Boot` · `.NET` · `REST APIs` · `Microservices` · `Database Optimization`
+`Spring Boot` · `.NET` · `ReactJS` · `REST APIs` · `Microservices` · `Database Optimization`
 
 
 ## The Backend Delivery Loop
@@ -77,9 +83,9 @@ Understand the problem, design the API, build the service, test its behavior, sh
 ## Current Focus
 
 - Mastering Spring Boot and microservices
+- Enhancing frontend skills with advanced ReactJS and state management
 - Contributing to open-source projects
 - Learning Azure and AWS
-- Building production-ready REST APIs
 
 📚 **Reading:** *Designing Data-Intensive Applications*<br/>
 ☕ **Fuel:** Coffee + Clean Code
@@ -95,6 +101,10 @@ Understand the problem, design the API, build the service, test its behavior, sh
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tinh0804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tinh0804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tinh0804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
